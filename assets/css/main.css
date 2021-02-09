@@ -134,6 +134,22 @@ input, select, textarea {
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 }
+
+#link-text:link {
+	color: #347A47;
+  }
+/* visited link */
+#link-text:visited {
+	color: #347A47;
+  }
+
+  /* mouse over link */
+  #link-text:hover {
+	color: #0C171B;
+  }
+  
+  
+
 .textPlay:hover{
 	opacity: 0.6;}
 
