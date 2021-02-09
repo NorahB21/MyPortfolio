@@ -122,9 +122,10 @@ input, select, textarea {
 	
 	text-align: center;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 15px;
 	display: inline-block;
 	position: absolute;
+	font-family: inherit;
 	top: 50%;
 	left: 50%;
 	color: rgb(2, 43, 82);
@@ -234,6 +235,8 @@ input, select, textarea {
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+
+		
 	}
 
 		.row > * {
@@ -1683,6 +1686,8 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+		
+
 	header {
 		margin: 0 0 1.5em 0;
 	}
@@ -1736,6 +1741,8 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+
+		
 
 /* Button */
 
@@ -2145,10 +2152,10 @@ input, select, textarea {
 					-webkit-flex-shrink: 0;
 					-ms-flex-shrink: 0;
 					flex-shrink: 0;
-					width: 60%;
+					width: 64%;
 					height: 100%;
-					background: url("images/b1.jpg");
-					background-position: bottom center;
+					background: url("images/header0.5.png");
+					background-position: left center;
 					
 				}
 
