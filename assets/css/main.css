@@ -156,6 +156,7 @@ input, select, textarea {
 
   .textPlay {
 	background-color: rgb(0, 21, 77);
+	
 	width: 50%;
 	
 	margin-left: 20%;
@@ -1480,10 +1481,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: rgb(12, 23, 27);
 		
+		background-image: linear-gradient(to bottom right, rgba(39, 83, 180, 0.9) , rgba(12, 23, 27, 1));
+
 		background-repeat: repeat, no-repeat;
-		background-size: auto, 100% 100%;
+		background-size: 100% 100%;
 		background-attachment: fixed;
 		overflow-y: scroll;
 	}
@@ -2170,8 +2172,8 @@ input, select, textarea {
 					flex-shrink: 0;
 					width: 64%;
 					height: 100%;
-					background: url("images/header0.5.png");
-					background-position: left center;
+					background: url("images/animated\ work-top.gif");
+					background-size: 280px;
 					
 				}
 
