@@ -1482,7 +1482,7 @@ input, select, textarea {
 
 	body {
 		
-		background-image: linear-gradient(to bottom right, rgba(39, 83, 180, 0.9) , rgba(12, 23, 27, 1));
+		background-image: linear-gradient(to bottom right, rgba(19, 19, 19, 0.9) , rgb(0, 0, 0));
 
 		background-repeat: repeat, no-repeat;
 		background-size: 100% 100%;
